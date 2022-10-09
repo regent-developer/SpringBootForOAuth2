@@ -1,1 +1,1 @@
-# OAuth2Sample
+# SpringBootForOAuth2
